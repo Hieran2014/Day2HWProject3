@@ -8,4 +8,17 @@ public class Day2HW3 {
 		
 		System.out.println("Remote repository");
 	}
+	
+	//Stash
+	public void add (int a, int b) {
+		
+		System.out.println(a + b);
+	}
+	
+	// Push
+	public void subtract (int a, int b) {
+		
+		System.out.println(a - b);
+	}
+	
 }
